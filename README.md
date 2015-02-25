@@ -1,2 +1,2 @@
 # github-course
-Experimentation with GitHub
+My experimentation with GitHub.
